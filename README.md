@@ -1,6 +1,6 @@
 # letter_recognition
 CNNを用いて文字認識を行うツールキット
-
+主に使うのは「CNN_recognition_2.ipynb」と「letter_draw.py」
 
 **・CNN_recognition_2.ipynb**
 
